@@ -1,0 +1,12 @@
+body { background-image: url(assets/images/wallpaper.jpg);
+    margin-left:20px;
+    font-family: 'Permanent Marker';
+    
+}
+h1{
+    color: green;
+}
+.pg{
+    color:rgba(236, 238, 118, 0.9);
+    
+}
